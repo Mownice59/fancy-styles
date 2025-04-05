@@ -6,7 +6,7 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 * 
-## Installing Anon
+## Installing Ciyan
 
 To install **Ciyan**, follow these steps:
 
@@ -15,5 +15,5 @@ To install **Ciyan**, follow these steps:
 Windows:
 
 ```bash
-git clone  https://mownice59.github.io/fancy-styles/
+Live demo: https://mownice59.github.io/fancy-styles/
 ```
