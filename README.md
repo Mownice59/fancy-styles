@@ -1,5 +1,6 @@
 # fancy-styles
 **Live Demo**:https://fancy-styles.vercel.app/
+
 Ciyan is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 ## Prerequisites
 
